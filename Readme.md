@@ -55,7 +55,6 @@ cd weather-app</code></pre>
   <h2>Contributing</h2>
   <p>Feel free to submit issues or create pull requests to improve the project. Contributions are welcome!</p>
 
-  <h2>License</h2>
-  <p>This project is licensed under the MIT License.</p>
+ 
 </body>
 </html>
