@@ -10,7 +10,7 @@
   <p>This weather app provides current weather information for a specified city. The app displays temperature, humidity, wind speed, and other details with a user-friendly interface.</p>
 
   <h2>App Screenshot</h2>
-  <img src="Images/Screenshot.png" alt="Weather App Screenshot" width="500">
+  <img src="Images/Screenshot.png" alt="Weather App Screenshot" width="1500">
 
   <h2>Features</h2>
   <ul>
