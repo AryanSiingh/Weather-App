@@ -11,7 +11,7 @@
 
   <h2>App Screenshot</h2>
   <img src="images/Screenshot.png" alt="Weather App Screenshot" width="500">
-  <img src="images/search.png" alt="Weather App Screenshot" width="500">
+  <img src="images/SearchP.png" alt="Weather App Screenshot" width="500">
   <img src="images/invalid.png" alt="Weather App Screenshot" width="500">
   <img src="images/berlin.png" alt="Weather App Screenshot" width="500">
 
